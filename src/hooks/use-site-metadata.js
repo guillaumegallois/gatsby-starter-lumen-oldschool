@@ -12,21 +12,8 @@ const useSiteMetadata = () => {
               bio
               photo
               contacts {
-                facebook
                 linkedin
                 github
-                twitter
-                telegram
-                instagram
-                email
-                rss
-                vkontakte
-                line
-                gitlab
-                weibo
-                codepen
-                youtube
-                soundcloud
               }
             }
             menu {
@@ -36,7 +23,6 @@ const useSiteMetadata = () => {
             url
             title
             subtitle
-            copyright
             disqusShortname
           }
         }
