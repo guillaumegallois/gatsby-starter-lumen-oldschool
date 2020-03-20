@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://wwww.guillaumegallois.com',
   pathPrefix: '/',
-  title: 'Guillaume Gallois',
+  title: 'Guillaume Gallois - Yet another selection of articles on Java and development.  ',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '',
   disqusShortname: '',
