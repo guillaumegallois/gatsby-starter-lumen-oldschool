@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Guillaume Gallois',
     photo: '/photo.png',
-    bio: 'Java developer & open source enthusiast',
+    bio: 'Yet another selection of articles on Java and development.',
     contacts: {
       github: 'guillaumegallois',
       linkedin: 'guillaume-gallois-a69b3739',
